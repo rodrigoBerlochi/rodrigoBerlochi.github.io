@@ -1,0 +1,34 @@
+{
+  "name": "rodrigoberlochi.github.io",
+  "version": "1.0.0",
+  "description": "About me",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoBerlochi/rodrigoBerlochi.github.io.git"
+  },
+  "author": "Rodrigo Berlochi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoBerlochi/rodrigoBerlochi.github.io/issues"
+  },
+  "homepage": "https://github.com/rodrigoBerlochi/rodrigoBerlochi.github.io#readme",
+  "dependencies": {
+    "@atlaskit/css-reset": "^3.0.0",
+    "@atlaskit/media-card": "^30.0.0",
+    "@atlaskit/modal-dialog": "^6.0.0",
+    "@atlaskit/page": "^8.0.0",
+    "@atlaskit/page-header": "^6.0.0",
+    "@atlaskit/spinner": "^9.0.0",
+    "@atlaskit/tag": "^6.0.0",
+    "react": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
